@@ -1,34 +1,31 @@
 # Brotdose
 
-## Iteration 1
+# Ausgangszustand
+<img width="1911" height="34" alt="0" src="https://github.com/user-attachments/assets/230ec2b8-6e28-435d-b3a1-57ba2144baaf" />
 
+## Iteration 1
 Einfache Anweisungen
 
-![struktog_2024-02-15](https://github.com/przygoda/Brotdose/assets/1532178/b672bf88-6e2a-4d92-b418-36709fc385ce)
+<img width="1911" height="194" alt="basic" src="https://github.com/user-attachments/assets/c14b0ebe-c87a-407d-90e8-4a6b933f4875" />
 
 ## Iteration 2
-
 Entscheidung if/else ++
 
-![struktog_2024-02-15 (1)](https://github.com/przygoda/Brotdose/assets/1532178/6968e0e2-13fe-4257-8f14-bf0238414564)
+<img width="1911" height="290" alt="2" src="https://github.com/user-attachments/assets/1a7fef0e-cb95-49bd-92fe-01986f515e20" />
 
 ## Iteration 3
-
 Zählergesteuerte Schleife ++
 
-![struktog_2024-02-15 (2)](https://github.com/przygoda/Brotdose/assets/1532178/0ab9e982-018f-4ff1-944d-2193e14fa470)
+<img width="1911" height="322" alt="3" src="https://github.com/user-attachments/assets/74cb7d60-1ffa-48e6-a76c-2c23505d40f8" />
 
 ## Iteration 4
-
-Entscheidung if ohne else ++
-
-![struktog_2024-02-15 (3)](https://github.com/przygoda/Brotdose/assets/1532178/02bb67fe-461a-48eb-8afa-d66bdac1d6a3)
-
-## Iteration 5
-
 Fussgesteuerte Schleife ++
 
-![struktog_2024-02-15 (5)](https://github.com/przygoda/Brotdose/assets/1532178/dd568fc1-5171-465e-92c9-a63cdb1e0ba6)
+<img width="1911" height="388" alt="4" src="https://github.com/user-attachments/assets/41e532b4-88ae-4faf-8a1c-2f7c39fcb932" />
 
+## Iteration 5
+Fallunterscheidung ++
+
+<img width="949" height="452" alt="5" src="https://github.com/user-attachments/assets/6cf128ff-22a3-44dc-9588-5cfe49ec76c2" />
 
 
